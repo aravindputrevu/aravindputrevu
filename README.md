@@ -5,13 +5,13 @@
 
 ---
 
-Helping developers solve thier problems! 
+Helping developers solve their problems! 
 
-I have a passion to learn new technology and teach, write about them. You can subscribe to my newsletter [here](https://www.getrevue.co/profile/aravind)!
+I have a passion for learning new technology and teaching and write about them. You can subscribe to my newsletter [here](https://www.getrevue.co/profile/aravind)!
 
-Working with Data and Analytics is my favorite thing. Started in the tech industry in a Fortune 100 Credit Card Company on their Fraud Detection Systems. Always worked on Distributed Data systems, Public and Private Cloud Platforms like VMWare, AWS, Azure and GCP. 
+Working with Data and Analytics is my favourite thing. Started in the tech industry in a Fortune 100 Credit Card Company on their Fraud Detection Systems. Always worked on Distributed Data systems, Public and Private Cloud Platforms like VMWare, AWS, Azure and GCP. 
 
-I've started [a Youtube channel](https://www.youtube.com/channel/UCcxBSw-7uEhwIWew4kXzwPQ) to share latest tech happenings and also to bring in diverse views from various folks. 
+I've started [a Youtube channel](https://www.youtube.com/channel/UCcxBSw-7uEhwIWew4kXzwPQ) to share the latest tech happenings and bring diverse views from various folks. 
 
 ---
 
