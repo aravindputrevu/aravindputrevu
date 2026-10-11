@@ -4,7 +4,7 @@ I build software and work on growth for developer tools. My background includes 
 
 [aravind.dev](https://aravind.dev) · [Twitter](https://twitter.com/aravindputrevu) · [LinkedIn](https://linkedin.com/in/aravindputrevu) · [YouTube](https://www.youtube.com/channel/UCcxBSw-7uEhwIWew4kXzwPQ)
 
-### Developer growth
+### Developer Tool growth
 
 I've spent a lot of time on 0→1 growth and go-to-market for developer tools. That includes work with Elastic, FluentBit, Pangea Cyber, Cleanlab, Portkey, Middleware, Fireworks, and CodeRabbit.
 
